@@ -26,7 +26,7 @@ The project uses **CMake** as its build system. Follow the steps below to set up
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/elix-engine.git
+git clone https://github.com/ElverseCopr/elix
 cd elix-engine
 ```
 
